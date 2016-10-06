@@ -42,9 +42,7 @@
     "eslint-plugin-jsx-a11y": "^2.2.2",
     "eslint-plugin-react": "^6.3.0",
     "extract-text-webpack-plugin": "^1.0.1",
-    "jest": "^15.1.1",
-    "jest-cli": "^15.1.1",
-    "jest-webpack": "^0.2.1",
+    "immutable": "^3.8.1",
     "json-loader": "^0.5.4",
     "karma": "^0.13.22",
     "karma-chai": "^0.1.0",
@@ -59,8 +57,23 @@
     "less-loader": "^2.2.3",
     "mocha": "^3.0.2",
     "phantomjs-prebuilt": "^2.1.12",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
+    "redux": "^3.6.0",
+    "redux-actions": "^0.12.0",
+    "redux-immutable": "^3.0.8",
+    "redux-logger": "^2.7.0",
+    "redux-saga": "^0.12.0",
+    "router": "^1.1.4",
     "style-loader": "^0.13.1",
     "supertest": "^2.0.0",
     "webpack": "^1.8.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polesskiy-dev/mern-table.git"
+  },
+  "license": "MIT"
 }
